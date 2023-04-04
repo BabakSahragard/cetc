@@ -21,8 +21,9 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### Session A:  9:00 am - 10:00 am 
 
-1. #####  Blackwell Correlated Equilibrium 
-      [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)
+
+ 1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination
+       [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)     
 
 2. #####  Bayes = Blackwell, Almost
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University), [Nour Chalhoub](https://search.asu.edu/profile/3452319) (Arizona State University)
@@ -88,8 +89,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### Session G:  9:00 am - 10:00 am 
 
-1. ##### Everybody’s Talkin’ at Me: Levels of Majority Language Acquisition by Minority Language Speakers
-      [William Brock](https://www.ssc.wisc.edu/~wbrock/) (University of Wisconsin - Madison ), [Bo Chen](http://faculty.smu.edu/bochen)* (Southern Methodist University), [Steven Durlauf](https://home.uchicago.edu/sdurlauf/) (University of Chicago),  [Shlomo Weber](https://hceconomics.uchicago.edu/people/shlomo-weber) (Southern Methodist University.)
+1. 2. ##### Endogenous Criteria for Success
+      [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
 
 2. #####  Strategy-proof Multi-Issue Mediation: An Application to Online Dispute Resolution
       [Selcuk Ozyurt](http://www.selcukozyurt.com)* (York University), [Onur Kesten](https://www.sydney.edu.au/arts/about/our-people/academic-staff/onur-kesten.html) (The University of Sydney)
@@ -170,10 +171,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### Session N:  10:15 am - 11:45 am 
 1. ##### Non-Fundamental Volatility in Financial Markets
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
-2. ##### Endogenous Criteria for Success
-      [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
-  3. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination
-       [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
+2.##### Everybody’s Talkin’ at Me: Levels of Majority Language Acquisition by Minority Language Speakers
+      [William Brock](https://www.ssc.wisc.edu/~wbrock/) (University of Wisconsin - Madison ), [Bo Chen](http://faculty.smu.edu/bochen)* (Southern Methodist University), [Steven Durlauf](https://home.uchicago.edu/sdurlauf/) (University of Chicago),  [Shlomo Weber](https://hceconomics.uchicago.edu/people/shlomo-weber) (Southern Methodist University.)      
+3. #####  Blackwell Correlated Equilibrium 
+      [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago) 
 **Presenter of paper.*
 
 ----
