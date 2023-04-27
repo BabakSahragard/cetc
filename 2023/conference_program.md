@@ -34,7 +34,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### Session B:  10:15 am - 11:15 am 
 
-1. #####   Comparative statics with adjustment costs and the le Chatelier principle
+1. #####   Comparative statics with adjustment costs and the le Chatelier principle [[PDF]](https://arxiv.org/pdf/2206.00347.pdf?v=5)
    [Eddie Dekel](https://sites.google.com/site/eddiedekelsite/) (Northwestern University ), [John K.-H. Quah](https://www.johnquah.com/)* (Johns Hopkins University, National University of Singapore),  [Ludvig Sinander](https://www.ludvigsinander.net/) (Oxford & Nuffield College.)
 
 2. #####  How Informed Do You Want Your Principal To Be?
